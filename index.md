@@ -14,74 +14,72 @@ The app does not require users to create an account.
 
 The app does not display third-party advertising.
 
-We collect limited information only when needed to operate, maintain, secure, analyze, and improve the app, or when you contact us for support.
+We collect and share limited information only when needed to operate, maintain, analyze, and improve the app.
 
-## 2. Information We May Collect
+## 2. Information We Collect and Share
 
-We may collect or process the following types of information:
+We may collect and share the following limited data types:
 
-### Personal Information
+### App Interactions
 
-We may collect:
-
-* **Name**, if you contact us or submit a support request.
-* **Email address**, if you contact us or submit a support request.
-
-This information is used only to respond to your message, provide support, handle privacy requests, or comply with legal obligations.
-
-### Location Information
-
-We may collect:
-
-* **Approximate location**, such as country or region, which may be derived from your IP address or platform services.
-
-We do not collect precise GPS location.
-
-Approximate location may be used for app functionality, analytics, diagnostics, security, fraud prevention, and service operation.
-
-### App Activity
-
-We may collect information about how the app is used, such as:
+We may collect and share information about how users interact with the app, such as:
 
 * App sessions.
 * Screens viewed.
-* Taps, selections, and basic interaction events.
-* In-app actions.
+* Taps and selections.
+* Basic interaction events.
+* Usage activity inside the app.
+
+**Purpose:**
+
+* App functionality.
+* Analytics.
+
+### Other In-App Actions
+
+We may collect and share other actions performed inside the app, such as:
+
+* Feature usage.
 * Settings changes.
-* Progress events.
-* Other activity related to use of the app.
+* Calculation-related actions.
+* Other basic activity related to use of the app.
 
-This information may be used for app functionality, analytics, performance improvement, security, diagnostics, and troubleshooting.
+**Purpose:**
 
-### App Information and Performance
-
-We may collect technical and performance information, such as:
-
-* Crash logs.
-* Error reports.
-* Diagnostics.
-* Loading performance.
-* Technical logs.
-* Other app performance data.
-
-This information is used to detect bugs, fix crashes, improve stability, maintain the app, and prevent abuse or technical issues.
+* App functionality.
+* Analytics.
 
 ### Device or Other IDs
 
-We may collect:
+We may collect and share device or other technical identifiers, such as:
 
 * Device identifiers.
 * Installation identifiers.
 * App instance identifiers.
 * Other technical identifiers.
 
-These identifiers may be used for analytics, diagnostics, security, fraud prevention, app functionality, and service operation.
+**Purpose:**
 
-## 3. Information We Do Not Collect
+* App functionality.
 
-We do not intentionally collect:
+## 3. Data Safety Summary
 
+The app may collect and share the following data:
+
+| Data Type            | Collected | Shared | Purpose                      |
+| -------------------- | --------- | ------ | ---------------------------- |
+| App interactions     | Yes       | Yes    | App functionality, Analytics |
+| Other in-app actions | Yes       | Yes    | App functionality, Analytics |
+| Device or other IDs  | Yes       | Yes    | App functionality            |
+
+## 4. Information We Do Not Collect
+
+We do not intentionally collect the following types of information through the app:
+
+* Name.
+* Email address.
 * Precise location.
+* Approximate location.
 * Contacts.
 * Photos or videos.
 * Audio files.
@@ -95,7 +93,21 @@ We do not intentionally collect:
 * Sensitive personal information.
 * Payment information.
 
-## 4. Advertising
+## 5. Contact Information
+
+If you contact us by email or through our website, you may voluntarily provide information such as your name, email address, and message content.
+
+This information is not required to use the app.
+
+We use contact information only to:
+
+* Respond to your message.
+* Provide support.
+* Handle privacy requests.
+* Handle abuse or copyright reports.
+* Comply with legal obligations.
+
+## 6. Advertising
 
 Misli Hesaplama does not display third-party ads.
 
@@ -103,7 +115,7 @@ We do not use advertising data to show ads inside the app.
 
 We do not sell personal information for advertising purposes.
 
-## 5. How We Use Information
+## 7. How We Use Information
 
 We may use collected or processed information to:
 
@@ -112,66 +124,57 @@ We may use collected or processed information to:
 * Process basic app activity.
 * Improve app stability and performance.
 * Understand basic usage of the app.
-* Detect, investigate, and fix bugs or crashes.
-* Prevent fraud, abuse, misuse, and security incidents.
+* Analyze app interactions.
+* Detect, investigate, and fix bugs or technical issues.
+* Prevent abuse, misuse, and security incidents.
 * Respond to support requests.
 * Respond to privacy or deletion requests.
 * Comply with legal obligations.
 
-## 6. Data Sharing
+## 8. Data Sharing
 
 We do not sell your personal information.
 
 We may share or allow processing of limited information only when necessary, including:
 
-* With service providers that help operate, analyze, secure, diagnose, host, distribute, or maintain the app.
+* With service providers that help operate, analyze, host, secure, distribute, or maintain the app.
 * With platform providers, such as Google Play services.
-* With analytics, crash reporting, diagnostics, security, or technical service providers used to operate and improve the app.
+* With analytics or technical service providers used to operate and improve the app.
 * With authorities if required by law.
 * In connection with a business transfer, such as a merger, acquisition, restructuring, or sale of assets.
 
-The types of information that may be shared or processed include:
+The data types that may be shared include:
 
-* Name, if provided through a support request.
-* Email address, if provided through a support request.
-* Approximate location.
 * App interactions.
 * Other in-app actions.
-* Crash logs.
-* Diagnostics.
-* Other app performance data.
 * Device or other IDs.
 
-## 7. Third-Party Services
+## 9. Third-Party Services
 
-The app may use third-party services for app distribution, hosting, analytics, crash reporting, diagnostics, security, or technical functionality.
+The app may use third-party services for app distribution, analytics, hosting, diagnostics, security, or technical functionality.
 
-These services may process information according to their own privacy policies.
+These services may process limited information according to their own privacy policies.
 
 Examples may include:
 
 * Google Play services.
 * Analytics services.
-* Crash reporting services.
-* Diagnostics services.
 * Hosting providers.
 * Security and technical service providers.
+* App distribution platforms.
 
-## 8. App Data
+## 10. Local App Data
 
-Misli Hesaplama may store or process basic app data, such as:
+Misli Hesaplama may store basic app data locally on your device, such as:
 
-* App sessions.
-* Settings.
+* App settings.
 * Preferences.
-* In-app activity.
-* Basic usage events.
-
-Some app data may be stored locally on your device. Other app or technical data may be processed through service providers used to operate, analyze, secure, or improve the app.
+* Basic usage state.
+* Calculation-related local data.
 
 You can delete locally stored app data by clearing the app data or uninstalling the app from your device.
 
-## 9. Data Retention
+## 11. Data Retention
 
 We retain information only for as long as necessary for the purposes described in this Privacy Policy.
 
@@ -180,11 +183,11 @@ Retention periods may depend on:
 * The type of information.
 * The reason the information was collected.
 * Legal, security, operational, or technical requirements.
-* Whether the information is needed to resolve support, diagnostics, security, or legal issues.
+* Whether the information is needed to resolve support, technical, security, or legal issues.
 
 Some locally stored app data may remain on your device unless you delete the app or clear the app data.
 
-## 10. Data Deletion
+## 12. Data Deletion
 
 You may request deletion of personal information related to your use of the app by contacting us at:
 
@@ -200,7 +203,9 @@ We will review and process deletion requests where required by applicable law.
 
 Some information may be retained if necessary for legal, security, fraud prevention, dispute resolution, or compliance purposes.
 
-## 11. Security
+You can also delete locally stored app data by clearing the app data or uninstalling the app from your device.
+
+## 13. Security
 
 We use reasonable technical and organizational measures to protect information processed through the app.
 
@@ -208,7 +213,7 @@ However, no method of transmission over the internet or electronic storage is co
 
 We cannot guarantee absolute security, but we work to protect information against unauthorized access, loss, misuse, or alteration.
 
-## 12. Children's Privacy
+## 14. Children's Privacy
 
 Misli Hesaplama is intended for users aged 13 and older.
 
@@ -222,7 +227,7 @@ If you believe that a child has provided personal information, please contact us
 
 We will review the request and delete the information where required by applicable law.
 
-## 13. Your Privacy Rights
+## 15. Your Privacy Rights
 
 Depending on your location, you may have rights regarding your personal information, including the right to:
 
@@ -237,7 +242,7 @@ To exercise your rights, contact us at:
 
 **[privacy@miniapq.com](mailto:privacy@miniapq.com)**
 
-## 14. International Processing
+## 16. International Processing
 
 Information may be processed in the country where you live or in other countries where our service providers operate.
 
@@ -245,7 +250,7 @@ These countries may have data protection laws that differ from the laws in your 
 
 When information is processed internationally, we take reasonable steps to protect it according to this Privacy Policy and applicable law.
 
-## 15. Changes to This Privacy Policy
+## 17. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time.
 
@@ -255,7 +260,7 @@ The updated Privacy Policy will be posted on this page.
 
 Your continued use of the app after changes are posted means you accept the updated Privacy Policy.
 
-## 16. Contact Us
+## 18. Contact Us
 
 For privacy questions or data deletion requests, contact:
 
