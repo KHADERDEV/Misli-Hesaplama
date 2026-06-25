@@ -1,6 +1,6 @@
 # Privacy Policy for Misli Hesaplama
 
-**Last updated:** 19 June 2026
+**Last updated:** 24 June 2026
 
 This Privacy Policy explains how **MiniAPQ** ("we", "us", or "our") handles information when you use the mobile app **Misli Hesaplama**.
 
