@@ -1,6 +1,6 @@
 # Privacy Policy for Misli Hesaplama
 
-**Last updated:** 24 June 2026
+**Last updated:** 23 June 2026
 
 This Privacy Policy explains how **MiniAPQ** ("we", "us", or "our") handles information when you use the mobile app **Misli Hesaplama**.
 
@@ -273,7 +273,3 @@ For copyright complaints or abuse reports, contact:
 For general contact, contact:
 
 **[hello@miniapq.com](mailto:hello@miniapq.com)**
-
-Website / apps page:
-
-**https://miniapq.com/apps**
