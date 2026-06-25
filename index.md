@@ -16,10 +16,6 @@ The app does not display third-party advertising.
 
 We collect limited information only when needed to operate, maintain, secure, analyze, and improve the app, or when you contact us for support.
 
-Our apps page is available at:
-
-**https://miniapq.com/apps**
-
 ## 2. Information We May Collect
 
 We may collect or process the following types of information:
